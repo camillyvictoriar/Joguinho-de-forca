@@ -23,7 +23,7 @@ O jogo da forca é um jogo de palavras onde o jogador tem que adivinhar uma pala
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.11
 
 ## Como Contribuir
 
