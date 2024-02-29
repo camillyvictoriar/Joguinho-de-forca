@@ -30,5 +30,3 @@ O jogo da forca é um jogo de palavras onde o jogador tem que adivinhar uma pala
 Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request com suas sugestões ou correções.
 
 ---
-
-Sinta-se à vontade para personalizar ou expandir este texto de acordo com as especificidades do seu projeto.
